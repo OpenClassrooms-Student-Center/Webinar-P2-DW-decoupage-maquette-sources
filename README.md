@@ -1,3 +1,5 @@
+Ce repo permet de modifier les maquettes utilisées pour l'exercice de webinaire [Découper une maquette pour préparer l'intégration](https://docs.google.com/document/d/10OUdnEe_ACApJHAvdXRL39PByLF0vmpBrdkAdqEKT7Y/edit) pour le projet 2 de Développeur Web / Développeur Front-End. Pour faciliter leur création, les maquettes de l'exercice ont été faites à partir d'un Wordpress prégénéré. Voici comment le récupérer et l'éditer.
+
 Comment utiliser le wordpress :
 
 - Télécharger "Local" ici : https://localwp.com/, puis l'installer
